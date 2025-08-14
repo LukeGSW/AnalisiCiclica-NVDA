@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-08-13T21:38:47.282448",
+  "timestamp": "2025-08-14T21:39:04.488158",
   "ticker": "SPY",
-  "data_points": 2476,
+  "data_points": 2477,
   "latest_signal": {
-    "date": "2025-08-13",
+    "date": "2025-08-14",
     "signal": "SELL",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.5194377621636778,
-    "oscillator_value": 82.42525,
-    "signal_strength": 86.60216639688103,
+    "phase_value": 0.5328977608364417,
+    "oscillator_value": 116.61250000000001,
+    "signal_strength": 81.93739627615713,
     "confidence": "HIGH",
-    "price": 644.89,
-    "timestamp": "2025-08-13T21:38:45.505051"
+    "price": 644.95,
+    "timestamp": "2025-08-14T21:39:02.992444"
   },
   "backtest_metrics": {
-    "total_return_%": 678.4945341757376,
-    "max_drawdown_%": 0.0,
-    "sharpe_ratio": 0.8840942354319486,
-    "sortino_ratio": Infinity,
-    "calmar_ratio": Infinity,
-    "total_trades": 9,
-    "win_rate_%": 100.0,
-    "profit_factor": Infinity
+    "total_return_%": 685.4911925789983,
+    "max_drawdown_%": 0.42116030608093535,
+    "sharpe_ratio": 0.8860488743018025,
+    "sortino_ratio": 97.92451165526779,
+    "calmar_ratio": 245.98241667069078,
+    "total_trades": 15,
+    "win_rate_%": 80.0,
+    "profit_factor": 425.8271866500082
   },
   "cycle_analysis": {
     "dominant_period": 84.0,
