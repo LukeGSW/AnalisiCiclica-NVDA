@@ -1,0 +1,12 @@
+{
+  "date": "2025-08-15",
+  "signal": "HOLD",
+  "position": "FLAT",
+  "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
+  "phase_value": 1.0972196792210764,
+  "oscillator_value": 12.479250000000008,
+  "signal_strength": 96.25475899058219,
+  "confidence": "HIGH",
+  "price": 180.45,
+  "timestamp": "2025-08-17T16:07:01.783090"
+}
