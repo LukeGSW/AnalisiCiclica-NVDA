@@ -12,7 +12,7 @@
   "out_of_sample": {
     "total_return_%": 235.17965573429115,
     "max_drawdown_%": 0.0,
-    "sharpe_ratio": 0.8465432466976225,
+    "sharpe_ratio": 0.8459838056760469,
     "sortino_ratio": Infinity,
     "calmar_ratio": Infinity,
     "total_trades": 7,

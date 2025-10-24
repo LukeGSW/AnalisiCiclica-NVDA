@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-10-23T21:35:04.389207",
+  "timestamp": "2025-10-24T21:35:29.744744",
   "ticker": "NVDA",
-  "data_points": 2523,
+  "data_points": 2524,
   "latest_signal": {
-    "date": "2025-10-23",
+    "date": "2025-10-24",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.3279359444195633,
-    "oscillator_value": 2.671500000000009,
-    "signal_strength": 43.789287368842245,
+    "phase_value": 1.2960612351792953,
+    "oscillator_value": 2.829250000000002,
+    "signal_strength": 41.32891244817024,
     "confidence": "MEDIUM",
-    "price": 182.16,
-    "timestamp": "2025-10-23T21:35:03.138423"
+    "price": 186.26,
+    "timestamp": "2025-10-24T21:35:28.693867"
   },
   "backtest_metrics": {
     "total_return_%": 235.17965573429115,
     "max_drawdown_%": 0.0,
-    "sharpe_ratio": 0.8465432466976225,
+    "sharpe_ratio": 0.8459838056760469,
     "sortino_ratio": Infinity,
     "calmar_ratio": Infinity,
     "total_trades": 7,
