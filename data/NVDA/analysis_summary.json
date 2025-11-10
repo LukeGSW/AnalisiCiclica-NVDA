@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-11-07T21:35:44.254447",
+  "timestamp": "2025-11-10T21:38:25.360054",
   "ticker": "NVDA",
-  "data_points": 2534,
+  "data_points": 2535,
   "latest_signal": {
-    "date": "2025-11-07",
+    "date": "2025-11-10",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.9669832268430799,
-    "oscillator_value": 12.045500000000004,
-    "signal_strength": 80.35095726904514,
+    "phase_value": 0.9722412187382755,
+    "oscillator_value": 12.269000000000005,
+    "signal_strength": 82.45550974191522,
     "confidence": "HIGH",
-    "price": 188.15,
-    "timestamp": "2025-11-07T21:35:43.186563"
+    "price": 199.05,
+    "timestamp": "2025-11-10T21:38:24.057147"
   },
   "backtest_metrics": {
-    "total_return_%": 232.6860974922227,
-    "max_drawdown_%": 0.22851573977646145,
-    "sharpe_ratio": 0.8367291585260668,
+    "total_return_%": 231.28985908121038,
+    "max_drawdown_%": 0.2975225371310789,
+    "sharpe_ratio": 0.8344170016172142,
     "sortino_ratio": Infinity,
-    "calmar_ratio": 226.68114805389104,
-    "total_trades": 9,
-    "win_rate_%": 88.88888888888889,
-    "profit_factor": 421.67707759709657
+    "calmar_ratio": 173.65846261453095,
+    "total_trades": 8,
+    "win_rate_%": 87.5,
+    "profit_factor": 356.15513904276753
   },
   "cycle_analysis": {
     "dominant_period": 252.0,
