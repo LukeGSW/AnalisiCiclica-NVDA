@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T21:36:57.299435",
+  "timestamp": "2025-11-27T21:36:26.728167",
   "ticker": "NVDA",
   "data_points": 2547,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 26.847211946868626,
     "confidence": "LOW",
     "price": 180.26,
-    "timestamp": "2025-11-26T21:36:56.044173"
+    "timestamp": "2025-11-27T21:36:25.565632"
   },
   "backtest_metrics": {
     "total_return_%": 232.160803774131,
