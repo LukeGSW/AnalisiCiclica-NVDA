@@ -1,8 +1,8 @@
 {
   "in_sample": {
-    "total_return_%": 409.9010755896201,
+    "total_return_%": 409.8504690121314,
     "max_drawdown_%": 0.0,
-    "sharpe_ratio": 0.7048939835113706,
+    "sharpe_ratio": 0.7044983321426933,
     "sortino_ratio": Infinity,
     "calmar_ratio": Infinity,
     "total_trades": 13,
