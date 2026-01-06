@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-01-05T21:41:47.412838",
+  "timestamp": "2026-01-06T21:41:38.260590",
   "ticker": "NVDA",
-  "data_points": 2572,
+  "data_points": 2573,
   "latest_signal": {
-    "date": "2026-01-05",
+    "date": "2026-01-06",
     "signal": "SELL",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.4216989727509453,
-    "oscillator_value": 3.2447500000000105,
-    "signal_strength": 9.57805029655918,
+    "phase_value": 0.634693111561291,
+    "oscillator_value": 3.8933750000000202,
+    "signal_strength": 13.32607518533578,
     "confidence": "LOW",
-    "price": 188.12,
-    "timestamp": "2026-01-05T21:41:45.971582"
+    "price": 187.275,
+    "timestamp": "2026-01-06T21:41:36.535533"
   },
   "backtest_metrics": {
-    "total_return_%": 234.5923099394603,
-    "max_drawdown_%": 0.13723099710159697,
-    "sharpe_ratio": 0.8373888043480373,
+    "total_return_%": 233.2343139119046,
+    "max_drawdown_%": 0.27168372433605487,
+    "sharpe_ratio": 0.830919652076188,
     "sortino_ratio": Infinity,
-    "calmar_ratio": 372.8431078493139,
+    "calmar_ratio": 188.37349670189943,
     "total_trades": 9,
     "win_rate_%": 88.88888888888889,
-    "profit_factor": 910.9174199526692
+    "profit_factor": 333.05859136272716
   },
   "cycle_analysis": {
     "dominant_period": 252.0,
